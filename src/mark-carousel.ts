@@ -8,7 +8,7 @@ declare global {
 }
 
 /**
- * A custom web component that allows slide its content.
+ * A custom web component that allows slide its content. using simple js
  */
 @customElement('mark-carousel')
 export class MarkCarousel extends LitElement {
